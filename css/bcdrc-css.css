@@ -1,0 +1,39 @@
+.bcdrc-member
+{
+	float: left;
+	padding: 0em 0em 1.5em 0em;
+	width: 500px;
+}
+
+.bcdrc-member img
+{
+	width: 125px !important;
+	height: 125px !important;
+	border: 1px solid black;
+	margin-left: 20px;
+}
+
+.bcdrc-member hr
+{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.bcdrc-member p
+{
+	margin-left: 10px;
+}
+
+.bcdrc-member-info-title,
+.bcdrc-member-info-jobtitle,
+.bcdrc-member-info-citystate,
+.bcdrc-member-info-link
+{
+	margin-left: 10px;
+}
+
+.bcdrc-member-info-title
+{
+	font-weight: bold;
+	font-size: 1.25em;
+}
